@@ -9,7 +9,7 @@ Decrease size of image from 256*256 to 128*128 by removing every other pixel.
 
 2)Name of source code file:
 
-    Assignment1.c
+    PixelArrangement.c
 
 3)Name of executable file:
 
