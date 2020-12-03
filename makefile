@@ -1,9 +1,9 @@
 
-output: Assignment1.o
+output: PixelArrangement.o
 	gcc Assignment1.o -o output	
 
-Assignment1.o:Assignment1.c
-	gcc -c Assignment1.c
+PixelArrangement.o:PixelArrangement.c
+	gcc -c PixelArrangement.c
 
 clean:
 	rm *.o output
