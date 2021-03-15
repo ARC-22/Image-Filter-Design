@@ -1,4 +1,4 @@
-# Image-Processing
+# Image-Pixel-Processing 
 This project Reads the given image from the source folder and does the following modification on that image: 
 
 I) Removes the lower left quadrant of the image and shows the output.
@@ -17,3 +17,7 @@ II) Decreases the size of the image from 256*256 to 128*128 by removing every ot
 
   type 'make' in command prompt.It will create object file of name output.
   After that type './output' to run the program.
+  
+#Butterworth filter
+
+This is a implementation of butterworth filter to reduce noice of given digital image.
